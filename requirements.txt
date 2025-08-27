@@ -1,0 +1,14 @@
+customtkinter
+psutil
+matplotlib
+Pillow
+pygame
+google-generativeai
+piper-tts
+pyaudio
+opencv-python
+gpiozero
+lgpio
+llama_cpp-python
+pexpect # Uncomment if you want to use pexpect for Pi
+obd
